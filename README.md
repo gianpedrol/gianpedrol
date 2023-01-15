@@ -6,9 +6,11 @@
 - 📫 Entre em contato comigo: gianfrancopedrol.gp@gmail.com / +55 15 981098526
 
 ### Ciao! Sono Gianfranco Pedrol
-🔭 Oggi lavoro come FullStack con PHP/Laravel e Javascript/ReactJS
-🌱 Studiare DevOPS
-📫 Contattami: gianfrancopedrol.gp@gmail.com / +55 15 981098526
+
+
+- 🔭 Oggi lavoro come FullStack con PHP/Laravel e Javascript/ReactJS
+- 🌱 Studiare DevOPS
+- 📫 Contattami: gianfrancopedrol.gp@gmail.com / +55 15 981098526
 
 
 <div align="center">
