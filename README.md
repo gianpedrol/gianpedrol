@@ -5,6 +5,12 @@
 - 🌱 Estudando DevOPS 
 - 📫 Entre em contato comigo: gianfrancopedrol.gp@gmail.com / +55 15 981098526
 
+### Ciao! Sono Gianfranco Pedrol
+🔭 Oggi lavoro come FullStack con PHP/Laravel e Javascript/ReactJS
+🌱 Studiare DevOPS
+📫 Contattami: gianfrancopedrol.gp@gmail.com / +55 15 981098526
+
+
 <div align="center">
   <a href="https://github.com/gianpedrol">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gianpedrol&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
