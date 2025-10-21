@@ -7,7 +7,7 @@
 
 
 
-<h1 align="center">Gianfranco Pedrol — Full-Stack Web Engineer (Laravel • React • .NET/C#)</h1>
+<h1 align="center">Gianfranco Pedrol — Full-Stack Engineer (Laravel • React • .NET/C#)</h1>
 <p align="center">
   I build clean back-ends with <b>Laravel/PHP</b>, modern UIs with <b>React/TypeScript</b>, and <b>automation</b> with n8n. SEO & Google Business Profile included.
 </p>
