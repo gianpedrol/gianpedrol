@@ -1,37 +1,119 @@
-### Olá! Eu sou o Gianfranco Pedrol
+<!-- Language switch -->
+<p align="right">
+  <a href="#português-br">Português (BR)</a> •
+  <a href="#english">English</a> •
+  <a href="#italiano">Italiano</a>
+</p>
 
 
-- 🔭 Hoje trabalho como FullStack com PHP/Laravel e Javascript/ReactJS
-- 🌱 Estudando DevOPS 
-- 📫 Entre em contato comigo: gianfrancopedrol.gp@gmail.com / +55 15 981098526
 
-### Ciao! Sono Gianfranco Pedrol
+<h1 align="center">Gianfranco Pedrol — Full-Stack Web Engineer (Laravel • React • .NET/C#)</h1>
+<p align="center">
+  I build clean back-ends with <b>Laravel/PHP</b>, modern UIs with <b>React/TypeScript</b>, and <b>automation</b> with n8n. SEO & Google Business Profile included.
+</p>
 
+<p align="center">
+  <a href="mailto:gianfrancopedrol.gp@gmail.com">Email</a> •
+  <a href="https://wa.me/5515981098526">WhatsApp</a> •
+  <a href="https://www.linkedin.com/in/gianfrancopedrol/">LinkedIn</a>
+</p>
 
-- 🔭 Oggi lavoro come FullStack con PHP/Laravel e Javascript/ReactJS
-- 🌱 Studiare DevOPS
-- 📫 Contattami: gianfrancopedrol.gp@gmail.com / +55 15 981098526
+---
+## Português (BR)
+### O que eu faço
+- **Back-end:** Sistemas e APIs com **Laravel** (PHP 8+), MySQL, Redis e filas.
+- **Front-end:** **React/TypeScript**, interfaces rápidas (Vite/Tailwind).
+- **Automação & SEO:** Fluxos **n8n**, posts no Google Meu Negócio e SEO.
 
+### Projetos em produção (exemplos)
+- ApartamentosBaratos — plataforma Laravel (busca, filtros, SEO)
+- Gildo Climatizadores — site + automação de Google Meu Negócio
+- Eliana Decora — site + campanhas + GMB
+- Wizards Sorocaba, Seguros SP, Antenas Triângulo, IVTEC, Photocab, QueroPraxia
 
-<div align="center">
-  <a href="https://github.com/gianpedrol">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gianpedrol&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gianpedrol&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+### .NET/C# (seleção)
+- **Leitor de Balança Toledo** — C#/.NET, `System.IO.Ports` → webhook HTTP (ERP/automação)
+- Roadmap de serviço Windows e integrações industriais (dispositivos seriais)
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Gian-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
-  <img align="center" alt="Gian-Laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg">
-  <img align="center" alt="Gian-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-   <img align="center" alt="Gian-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Gian-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Gian-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
+### Stack
+`Laravel` · `PHP 8+` · `MySQL` · `Redis/Filas` · `REST` · `React` · `TypeScript` · `Vite` · `Tailwind` · `Docker` · `n8n` · `AWS RDS` · `CI/CD` · `.NET` · `C#` · `SerialPort` · `SEO & Google Meu Negócio`
 
-##
+### Como podemos trabalhar
+- **Freela/Parcerias com agências:** assumo features ponta-a-ponta com prazos/entregáveis.
+- **Vagas:** Full-Stack/Web Engineer. Fuso: Brasil (UTC-3). EN/PT/IT.
 
-<div>
-  <a href="https://instagram.com/gianfranco.dev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:gianfrancopedrol.gp@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/gianfrancopedrol/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+---
+## English
+### What I do
+- **Back-end:** Business systems & APIs with **Laravel** (PHP 8+), MySQL, Redis, Queues.
+- **Front-end:** **React/TypeScript**, performance-oriented interfaces (Vite/Tailwind).
+- **Automation & SEO:** **n8n** workflows, Google Business Profile posting, SEO basics.
+
+### Selected work (live)
+- ApartamentosBaratos — Laravel real-estate platform (search, filters, SEO landings)
+- Gildo Climatizadores — website + Google Business automation
+- Eliana Decora — website + campaigns + GBP
+- Wizards Sorocaba, Seguros SP, Antenas Triângulo, IVTEC, Photocab, QueroPraxia
+
+### Selected .NET/C#
+- **Toledo Scale Reader** — C#/.NET, `System.IO.Ports` → HTTP webhook (ERP/automation)
+- **Windows service** roadmap and industrial integrations (serial devices)
+
+### Tech
+`Laravel` · `PHP 8+` · `MySQL` · `Redis/Queues` · `REST` · `React` · `TypeScript` · `Vite` · `Tailwind` · `Docker` · `n8n` · `AWS RDS` · `CI/CD` · `.NET` · `C#` · `SerialPort` · `SEO & Google Business Profile`
+
+### Work together
+- **Agency partner / Freelance:** I can own modules or end-to-end features with clear SLAs.
+- **Full-time roles:** Full-Stack/Web Engineer. Location: Brazil (UTC-3). EN/PT/IT.
+
+---
+
+## Português (BR)
+### O que eu faço
+- **Back-end:** Sistemas e APIs com **Laravel** (PHP 8+), MySQL, Redis e filas.
+- **Front-end:** **React/TypeScript**, interfaces rápidas (Vite/Tailwind).
+- **Automação & SEO:** Fluxos **n8n**, posts no Google Meu Negócio e SEO.
+
+### Projetos em produção (exemplos)
+- ApartamentosBaratos — plataforma Laravel (busca, filtros, SEO)
+- Gildo Climatizadores — site + automação de Google Meu Negócio
+- Eliana Decora — site + campanhas + GMB
+- Wizards Sorocaba, Seguros SP, Antenas Triângulo, IVTEC, Photocab, QueroPraxia
+
+### .NET/C# (seleção)
+- **Leitor de Balança Toledo** — C#/.NET, `System.IO.Ports` → webhook HTTP (ERP/automação)
+- Roadmap de serviço Windows e integrações industriais (dispositivos seriais)
+
+### Stack
+`Laravel` · `PHP 8+` · `MySQL` · `Redis/Filas` · `REST` · `React` · `TypeScript` · `Vite` · `Tailwind` · `Docker` · `n8n` · `AWS RDS` · `CI/CD` · `.NET` · `C#` · `SerialPort` · `SEO & Google Meu Negócio`
+
+### Como podemos trabalhar
+- **Freela/Parcerias com agências:** assumo features ponta-a-ponta com prazos/entregáveis.
+- **Vagas:** Full-Stack/Web Engineer. Fuso: Brasil (UTC-3). EN/PT/IT.
+
+---
+
+## Italiano
+### Cosa faccio
+- **Back-end:** sistemi e API con **Laravel** (PHP 8+), MySQL, Redis e code.
+- **Front-end:** **React/TypeScript**, interfacce veloci (Vite/Tailwind).
+- **Automazione & SEO:** flussi **n8n**, Google Business Profile, SEO di base.
+
+### Progetti online (selezione)
+- ApartamentosBaratos — piattaforma Laravel (ricerca, filtri, SEO)
+- Gildo Climatizadores — sito + automazione GBP
+- Eliana Decora — sito + campagne + GBP
+
+### .NET/C# (selezione)
+- **Lettore Bilancia Toledo** — C#/.NET, `System.IO.Ports` → webhook HTTP (ERP/automazione)
+
+### Stack
+`Laravel` · `PHP` · `MySQL` · `Redis/Code` · `REST` · `React` · `TypeScript` · `Vite` · `Tailwind` · `Docker` · `n8n` · `AWS RDS` · `CI/CD` · `.NET` · `C#` · `SerialPort` · `SEO & GBP`
+
+---
+
+## Contact
+**Email:** gianfrancosites@gmail.com  
+**WhatsApp:** +55 15 98109-8526  
+**Timezone:** UTC-3 (São Paulo)  
+**Availability:** Freelance & Full-time.
